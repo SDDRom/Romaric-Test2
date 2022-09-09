@@ -1,0 +1,110 @@
+.grow{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+    border: 1;
+    border-radius: 10px;
+    display: flex;
+    background-color: white;
+    .grow-us{
+        margin-top: 10%;
+        width: 90%;
+        margin-left: 70px;
+       h4{
+         font-size: 15px;
+       } 
+       p{
+        width: 80%;
+        font-size: 12px;
+        margin-top: -10px;
+       }
+    }
+    .grow-pic{
+        img{
+            width: 70%;
+            height: 70%;
+            margin-left: 100px;
+            margin-top: 50px;
+        }
+    }
+}
+
+.flowing{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 1%;
+    border: 1;
+    border-radius: 10px;
+    display: flex;
+    background-color: white;
+    .flowing-text{
+        margin-top: 10%;
+        margin-left: 70px;
+       h4{
+         font-size: 25px;
+       } 
+       p{
+        width: 80%;
+        font-size: 14px;
+       }
+    }
+    .flowing-pic{
+        img{
+            width: 70%;
+            height: 70%;
+            margin-left: 100px;
+            margin-top: 50px;
+        }
+    }
+}
+
+.user{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 1%;
+    border: 10px;
+    border-radius: 10px;
+    box-shadow: antiquewhite;
+    display: flex;
+    background-color: white;
+    .user-text{
+        margin-top: 10%;
+        margin-left: 70px;
+       h4{
+         font-size: 25px;
+       } 
+       p{
+        width: 80%;
+        font-size: 14px;
+       }
+    }
+    .user-pic{
+        img{
+            width: 70%;
+            height: 70%;
+            margin-left: 100px;
+            margin-top: 50px;
+        }
+    }
+}
+.ready{
+    width: 40%;
+    margin-left: 40%;
+    margin-top: 10%;
+    box-shadow: inset;
+    h2{
+        display: center;
+    }
+button{
+    background-color: rgb(235, 103, 222);
+    color: white;
+    padding: 2px;
+    border-radius: 10px;
+    border: 0;
+    width: 35%;
+    height: 25px;
+    font-size: 10px;
+    margin-left: 10%;
+
+}
+}

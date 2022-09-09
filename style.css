@@ -1,0 +1,165 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  width: 80%;
+  margin-left: 10%;
+  background-image: url(./images/bg-hero-desktop.svg);
+}
+.main nav {
+  display: flex;
+}
+.main nav img {
+  font-family: 5px;
+}
+.main nav button {
+  background-color: white;
+  color: black;
+  padding: 2px;
+  border-radius: 10px;
+  border: 0;
+  width: 120px;
+  height: 25px;
+  font-size: 10px;
+  margin-left: 800px;
+  margin-top: 10px;
+}
+.main .about {
+  display: flex;
+  margin-left: 3%;
+  margin-top: 55px;
+}
+.main .about img {
+  width: 50%;
+  height: 25%;
+  margin-left: 100px;
+}
+.main .about .about-us {
+  width: 35%;
+  margin-top: 70px;
+}
+.main .about .about-us h3 {
+  font-size: 35px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.main .about .about-us p {
+  font-size: 14.2px;
+}
+.main .about .about-us button {
+  padding: 5px;
+  border-radius: 15px;
+  border: 0;
+  background-color: rgb(235, 103, 222);
+  color: white;
+  font-size: 10px;
+  width: 150px;
+  height: 25px;
+}
+
+.grow {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 5%;
+  border: 1;
+  border-radius: 10px;
+  display: flex;
+  background-color: white;
+}
+.grow .grow-us {
+  margin-top: 10%;
+  width: 90%;
+  margin-left: 70px;
+}
+.grow .grow-us h4 {
+  font-size: 15px;
+}
+.grow .grow-us p {
+  width: 80%;
+  font-size: 12px;
+  margin-top: -10px;
+}
+.grow .grow-pic img {
+  width: 70%;
+  height: 70%;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.flowing {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 1%;
+  border: 1;
+  border-radius: 10px;
+  display: flex;
+  background-color: white;
+}
+.flowing .flowing-text {
+  margin-top: 10%;
+  margin-left: 70px;
+}
+.flowing .flowing-text h4 {
+  font-size: 25px;
+}
+.flowing .flowing-text p {
+  width: 80%;
+  font-size: 14px;
+}
+.flowing .flowing-pic img {
+  width: 70%;
+  height: 70%;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.user {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 1%;
+  border: 10px;
+  border-radius: 10px;
+  box-shadow: antiquewhite;
+  display: flex;
+  background-color: white;
+}
+.user .user-text {
+  margin-top: 10%;
+  margin-left: 70px;
+}
+.user .user-text h4 {
+  font-size: 25px;
+}
+.user .user-text p {
+  width: 80%;
+  font-size: 14px;
+}
+.user .user-pic img {
+  width: 70%;
+  height: 70%;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.ready {
+  width: 40%;
+  margin-left: 40%;
+  margin-top: 10%;
+  box-shadow: inset;
+}
+.ready h2 {
+  display: center;
+}
+.ready button {
+  background-color: rgb(235, 103, 222);
+  color: white;
+  padding: 2px;
+  border-radius: 10px;
+  border: 0;
+  width: 35%;
+  height: 25px;
+  font-size: 10px;
+  margin-left: 10%;
+}/*# sourceMappingURL=style.css.map */
